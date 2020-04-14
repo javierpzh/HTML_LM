@@ -2979,9 +2979,9 @@ input, select, textarea {
 	}
 
 table, th, td {
-  border: 1px solid black;
+  border: 2px solid gray;
   border-collapse: collapse;
 }
 th {
-  text-align: left;
+  text-align: center;
 }
