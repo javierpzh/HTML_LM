@@ -8,5 +8,5 @@
 * **6:** Debe existir alguna lista ordenada y no ordenada.
 * **7:** Se deben incluir imágenes.
 * **8:** Debe existir al menos una tabla.
-* **9:** Debe existir un formulario que envíe los datos http://www2.gonzalonazareno.org/josedom/resultado.php.
+* **9:** Debe existir un formulario que envíe los datos http://www2.gonzalonazareno.org/josedom/resultado.php .
 * **10:** Todas las páginas deben tener un favicon.
